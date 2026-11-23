@@ -1,0 +1,8 @@
+pyproject.toml
+src/sagittal/__init__.py
+src/sagittal/sagittal_brain.py
+src/sagittal.egg-info/PKG-INFO
+src/sagittal.egg-info/SOURCES.txt
+src/sagittal.egg-info/dependency_links.txt
+src/sagittal.egg-info/top_level.txt
+tests/test_python_file.py
